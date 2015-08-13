@@ -1,14 +1,14 @@
 {
-  "name": "material-date-picker",
-  "version": "1.1.7",
+  "name": "material-date-picker-readonly",
+  "version": "1.0.1",
   "dependencies": {
     "moment": "~2.9.0"
   },
   "appPath": "app",
   "authors": [
-    "Mo Binni <mobinni@hotmail.com>"
+    "Victor Wibisono <devacto@gmail.com>"
   ],
-  "description": "A material date picker",
+  "description": "A material date picker with readonly input.",
   "main": [
     "build/mbdatepicker.js",
     "build/styles/mbdatepicker.css"
